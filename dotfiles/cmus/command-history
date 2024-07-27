@@ -1,0 +1,18 @@
+colorscheme gruvbox
+colorscheme xterm-white
+colorscheme zenburn
+colorscheme zenburn.theme
+colorscheme night
+colorscheme illyria-dark
+colorscheme gruvbox-dark
+colorscheme green-mono-88
+colorscheme cyan
+colorscheme default
+colorscheme gray-88
+colorscheme
+colorscheme dracula
+colorscheme dracula.theme
+save
+clear
+colorscheme grubox-dark
+bind -f common u shell ~/Documents/cmus/updatelib.sh
