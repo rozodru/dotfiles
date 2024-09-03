@@ -8,7 +8,7 @@ URL = "https://api.openweathermap.org/data/2.5/weather"
 # Get your API KEY here https://openweathermap.org/api,
 # and set an environment variable for OPENWEATHER_API_KEY with your API KEY.
 API_KEY = os.environ.get("OPENWEATHER_API_KEY",
-                         "8f6945a8e4ae692a7da0f82303c6669c")
+                         "xxx")
 HEADER = {"User-agent": "Mozilla/5.0"}
 
 
