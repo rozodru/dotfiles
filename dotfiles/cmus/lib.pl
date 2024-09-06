@@ -599,6 +599,122 @@
 /home/rozodru/Music/Street Fighter Alpha 3 MAX (MP3).zophar/p0300.mp3
 /home/rozodru/Music/Street Fighter Alpha 3 MAX (MP3).zophar/p0310.mp3
 /home/rozodru/Music/Street Fighter Alpha 3 MAX (MP3).zophar/p0320.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/01_A_NYC.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/02_B_NYC.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/03_C_NYC.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/04_A_Ros.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/05_B_Ros.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/06_C_Ros.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/07_A_Gem.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/08_B_Gem.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/09_C_Gem.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/10_A_Chi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/11_B_Chi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/12_C_Chi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/13_A_Shi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/14_B_Shi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/15_C_Shi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/16_A_Kyo.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/17_B_Kyo.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/18_C_Kyo.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/19_A_Doj.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/20_B_Doj.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/21_C_Doj.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/22_A_Yam.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/23_B_Yam.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/24_C_Yam.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/25_A_Afr.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/26_B_Afr.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/27_C_Afr.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/28_A_Bra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/29_B_Bra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/30_C_Bra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/31_A_Lon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/32_B_Lon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/33_C_Lon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/34_A_Hon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/35_B_Hon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/36_C_Hon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/37_A_Fra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/38_B_Fra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/39_C_Fra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/40_A_Q.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/41_B_Q.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/42_C_Q.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/43_A_Mex.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/44_B_Mex.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/45_C_Mex.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/46_A_Gre.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/47_B_Gre.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/48_C_Gre.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/49_End.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/50_End.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/51_VS.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/52_Open.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/53_P_Sel.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/54_Name.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/55_Win.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/56_Judge.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/57_S_Sel.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/58_Conti.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/59_over.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/60_Gill.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/61_Bo1.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/62_Bo2.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/63_Staff.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/64_Remix.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/65_menu.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/66_p_se2.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/67_logo.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o01_A_NYC.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o02_B_NYC.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o04_A_Ros.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o05_B_Ros.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o07_A_Gem.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o08_B_Gem.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o10_A_Chi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o11_B_Chi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o13_A_Shi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o14_B_Shi.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o16_A_Kyo.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o17_B_Kyo.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o19_A_Doj.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o20_B_Doj.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o22_A_Yam.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o23_B_Yam.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o25_A_Afr.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o26_B_Afr.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o28_A_Bra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o29_B_Bra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o31_A_Lon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o32_B_Lon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o34_A_Hon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o35_B_Hon.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o37_A_Fra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o38_B_Fra.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o40_A_Q.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o41_B_Q.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o43_A_Mex.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o44_B_Mex.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o46_A_Gre.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o47_B_Gre.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o49_End.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o50_End.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o51_VS.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o52_Open.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o53_P_Sel.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o54_Name.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o55_Win.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o56_Judge.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o57_S_Sel.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o58_Conti.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o59_over.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o60_Gill.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o61_Bo1.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o62_Bo2.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o63_Staff.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o66_P_Se2.mp3
+/home/rozodru/Music/Street Fighter III - 3rd Strike (MP3).zophar/o67_logo.mp3
 /home/rozodru/Music/Sullivan King & Ray Volpe - The Dead March [Monstercat Lyric Video].mp3
 /home/rozodru/Music/Surf Zapping (Uncut Edition).mp3
 /home/rozodru/Music/「Symphonic Hardcore」[Yooh] Destroy -agitato-.mp3
@@ -839,6 +955,17 @@
 /home/rozodru/Music/Craig Connelly feat. Roxanne Emery - This Life [#ASOT2018].mp3
 /home/rozodru/Music/ATB - Ecstasy (Morten Granau Remix).mp3
 /home/rozodru/Music/Death From Above 1979 - Romantic Rights (MTV Version) [Official Video].mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-01 - Arcarsenal (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-02 - Pattern Against User (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-03 - One Armed Scissor (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-04 - Sleepwalk Capsules (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-05 - Invalid Litter Dept. (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-06 - Mannequin Republic (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-07 - Enfilade (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-08 - Rolodex Propaganda (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-09 - Quarantined (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-10 - Cosmonaut (320kbps).mp3
+/home/rozodru/Music/2000-09-12 - Relationship of Command [171] [ALBUM] (MP3)/01-11 - Non‐Zero Possibility (320kbps).mp3
 /home/rozodru/Music/Ordinary World (feat. Naimee Coleman).mp3
 /home/rozodru/Music/Theme of ＂Spider-Man： The New Animated Series＂ [2003] ~ William Anderson (1-Hour Extended w⧸DL).mp3
 /home/rozodru/Music/BAD WOLVES ＂Learn To Live＂ Official Music Video.mp3
@@ -1190,6 +1317,17 @@
 /home/rozodru/Music/Siberian Kiss (2009 Remaster).mp3
 /home/rozodru/Music/The Gillette Cavalcade of Sports.mp3
 /home/rozodru/Music/Tip Your Bartender.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/01 - Tip Your Bartender.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/02 - Mu Empire.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/03 - Cosmopolitan Bloodloss.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/04 - Ape Dos Mil.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/05 - Pink Roses.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/06 - Must've Run All Day.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/07 - Stuck Pig.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/08 - Radio Cambodia.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/09 - The Gillette Cavalcade of Sports.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/10 - Trailer Park Jesus.mp3
+/home/rozodru/Music/Glassjaw - Worship and Tribute/11 - Two Tabs of Mescaline.mp3
 /home/rozodru/Music/Queen Of The Damned (Ost By Richard Gibbs & Jonathan Davis)/07 Penetrate.mp3
 /home/rozodru/Music/Radar Love.mp3
 /home/rozodru/Music/Gorillaz/14 Slow counter.mp3
@@ -1539,6 +1677,19 @@
 /home/rozodru/Music/Outlaw Star Original Soundtrack I [MP3]/30. JADE.mp3
 /home/rozodru/Music/#009 Dreamscape (Liquid Drum & Bass Mix).mp3
 /home/rozodru/Music/Novel.mp3
+/home/rozodru/Music/[2002] Light & Magic/01 True Mathematics.mp3
+/home/rozodru/Music/[2002] Light & Magic/02 Seventeen.mp3
+/home/rozodru/Music/[2002] Light & Magic/03 Flicking Your Switch.mp3
+/home/rozodru/Music/[2002] Light & Magic/04 Fire.mp3
+/home/rozodru/Music/[2002] Light & Magic/05 Blue Jeans.mp3
+/home/rozodru/Music/[2002] Light & Magic/06 Cracked LCD.mp3
+/home/rozodru/Music/[2002] Light & Magic/07 Black Plastic.mp3
+/home/rozodru/Music/[2002] Light & Magic/08 Evil.mp3
+/home/rozodru/Music/[2002] Light & Magic/09 Startup Chime.mp3
+/home/rozodru/Music/[2002] Light & Magic/10 Nuhorizons.mp3
+/home/rozodru/Music/[2002] Light & Magic/11 Cease2xist.mp3
+/home/rozodru/Music/[2002] Light & Magic/12 Light & Magic.mp3
+/home/rozodru/Music/[2002] Light & Magic/13 The Reason Why.mp3
 /home/rozodru/Music/Lasgo - Something   (OFFICIAL VIDEO).mp3
 /home/rozodru/Music/Ephixa & Laura Brehm - Losing You.mp3
 /home/rozodru/Music/Lil Dicky - Professional Rapper (Feat. Snoop Dogg).mp3
@@ -2492,6 +2643,32 @@
 /home/rozodru/Music/Animatrix The Album/various - 11 - Junkie XL-Don Davis - Red Pill, Blue Pill.mp3
 /home/rozodru/Music/Animatrix The Album/various - 12 - Tech Itch-Don Davis - The Real.mp3
 /home/rozodru/Music/Luvstruck (Radio Edit).mp3
+/home/rozodru/Music/Wiretap Scars (2002)/01. Cut Your Ribbon.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/02. Air.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/03. Mye.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/04. Collapse.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/05. Sans Cosm.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/06. Light Burns Clear.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/07. Cataract.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/08. Red Alibi.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/09. Rx Coup.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/10. Glasshouse Tarot.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/11. Echodyne Harmonic.mp3
+/home/rozodru/Music/Wiretap Scars (2002)/12. Assemble The Empire.mp3
+/home/rozodru/Music/Porcelain (2004)/01. Guns Of Memorial Park.mp3
+/home/rozodru/Music/Porcelain (2004)/02. Hiss The Villain.mp3
+/home/rozodru/Music/Porcelain (2004)/03. While Oceana Sleeps.mp3
+/home/rozodru/Music/Porcelain (2004)/04. La Cerca.mp3
+/home/rozodru/Music/Porcelain (2004)/05. Breaking The Broken.mp3
+/home/rozodru/Music/Porcelain (2004)/06. Lines In Sand.mp3
+/home/rozodru/Music/Porcelain (2004)/07. End Moraine.mp3
+/home/rozodru/Music/Porcelain (2004)/08. Death In The Family.mp3
+/home/rozodru/Music/Porcelain (2004)/09. Syncope.mp3
+/home/rozodru/Music/Porcelain (2004)/10. Tensioning.mp3
+/home/rozodru/Music/Porcelain (2004)/11. Travel By Bloodline.mp3
+/home/rozodru/Music/Porcelain (2004)/12. P.O.M.E..mp3
+/home/rozodru/Music/Porcelain (2004)/13. From Now To Never.mp3
+/home/rozodru/Music/Porcelain (2004)/14. Splinters.mp3
 /home/rozodru/Music/BLR - Comfort Me (feat. MVRT) [Official Music Video].mp3
 /home/rozodru/Music/Sander van Doorn - I Dream (Official Music Video).mp3
 /home/rozodru/Music/Sander van Doorn - Koko (Album Version).mp3
@@ -2676,6 +2853,39 @@
 /home/rozodru/Music/Blinding Lights.mp3
 /home/rozodru/Music/Thursday - At This Velocity.mp3
 /home/rozodru/Music/Thursday - Understanding In a Car Crash (Official HD Video).mp3
+/home/rozodru/Music/Full Collapse/01 A0001.mp3
+/home/rozodru/Music/Full Collapse/02 Understanding In A Car.mp3
+/home/rozodru/Music/Full Collapse/04 Autobiography Of A Nation.mp3
+/home/rozodru/Music/Full Collapse/05 A Hole In The World.mp3
+/home/rozodru/Music/Full Collapse/06 Cross Out The Eyes.mp3
+/home/rozodru/Music/Full Collapse/07 Paris In Flames.mp3
+/home/rozodru/Music/Full Collapse/08 I Am The Killer.mp3
+/home/rozodru/Music/Full Collapse/09 Standing On The Edge Of Summer.mp3
+/home/rozodru/Music/Full Collapse/10 Wind.mp3
+/home/rozodru/Music/Full Collapse/11 How Long Is The Night.mp3
+/home/rozodru/Music/Full Collapse/12 I1100.mp3
+/home/rozodru/Music/Five Stories Falling/1-05 Jet Black New Year.mp3
+/home/rozodru/Music/War All the Time/1-01 For the Workforce, Drowning.mp3
+/home/rozodru/Music/War All the Time/1-02 Between Rupture and Rapture.mp3
+/home/rozodru/Music/War All the Time/1-03 Division St..mp3
+/home/rozodru/Music/War All the Time/1-04 Signals Over the Air.mp3
+/home/rozodru/Music/War All the Time/1-05 Marches and Maneuvers.mp3
+/home/rozodru/Music/War All the Time/1-06 Asleep in the Chapel.mp3
+/home/rozodru/Music/War All the Time/1-07 This Song Brought to You by a Falling Bomb.mp3
+/home/rozodru/Music/War All the Time/1-08 Steps Ascending.mp3
+/home/rozodru/Music/War All the Time/1-09 War All the Time.mp3
+/home/rozodru/Music/War All the Time/1-10 M. Shepard.mp3
+/home/rozodru/Music/War All the Time/1-11 Tomorrow I'll Be You.mp3
+/home/rozodru/Music/A City by the Light Divided/1-01 The Other Side of the Crash   Over and Out (Of Control).mp3
+/home/rozodru/Music/A City by the Light Divided/1-02 Counting 5-4-3-2-1.mp3
+/home/rozodru/Music/A City by the Light Divided/1-03 Sugar in the Sacrament.mp3
+/home/rozodru/Music/A City by the Light Divided/1-04 At This Velocity.mp3
+/home/rozodru/Music/A City by the Light Divided/1-05 We Will Overcome.mp3
+/home/rozodru/Music/A City by the Light Divided/1-06 Arc-Lamps, Signal Flares, a Shower of White (The Light).mp3
+/home/rozodru/Music/A City by the Light Divided/1-07 Running From the Rain.mp3
+/home/rozodru/Music/A City by the Light Divided/1-08 Telegraph Avenue Kiss.mp3
+/home/rozodru/Music/A City by the Light Divided/1-09 The Lovesong Writer.mp3
+/home/rozodru/Music/A City by the Light Divided/1-11 Autumn Leaves Revisited.mp3
 /home/rozodru/Music/Tiësto - Adagio For Strings.mp3
 /home/rozodru/Music/Adagio for Strings.mp3
 /home/rozodru/Music/Flight 643.mp3
