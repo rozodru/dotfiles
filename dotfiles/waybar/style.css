@@ -1,0 +1,38 @@
+* {
+    font-family: "Gohu Font 11 Nerd Font", monospace;
+    font-size: 11px;
+    min-height: 0;
+    border: none;
+    padding: 0px 4px;
+}
+
+window#waybar {
+    background: #ffffff;
+    color: #000000;
+    border-bottom: 1px solid #cccccc;
+}
+
+#workspaces button {
+    background: transparent;
+    color: #000000;
+    border: none;
+    padding: 0 6px;
+}
+
+#workspaces button.focused {
+    background: #dddddd;
+    color: #000000;
+}
+
+#clock,
+#memory,
+#cpu,
+#battery,
+#network,
+#pulseaudio,
+#tray {
+    background: transparent;
+    color: #000000;
+    margin: 0 6px;
+}
+
